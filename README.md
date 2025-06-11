@@ -91,7 +91,8 @@ Este projeto foi desenvolvido para a disciplina **UC Sistemas Distribuídos e Mo
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/lfalcaolopes/livros_api.git
+   cd livros_api
    ```
 2. Crie e ative o ambiente virtual:
    ```bash
